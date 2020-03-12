@@ -1,0 +1,112 @@
+.nav-link:hover {
+color:black;
+text-shadow: 0px 0px 9px cyan;
+}
+
+.card-rounded{
+  border-radius:2%;
+  box-shadow: 0px 0px 5px 1px gray;
+  cursor: pointer;
+
+}
+
+
+.card-circle{
+  border-color: 10px solid cyan;
+  border-radius:50%;
+  box-shadow: 0px 0px 5px 1px gray;
+  border: 10px outset #dc3545;
+  cursor: pointer;
+}
+
+.card-circle-para{
+  border:none;
+  border-radius:10px;
+  box-shadow: 0px 0px 5px 1px gray;
+}
+
+.facility-head{
+background-color: white;
+width: 27%;
+padding: 5px 10px 5px 10px;
+}
+
+/*.bg-facility{
+background-color: #424242;
+
+}*/
+
+
+.bg-green{
+color: #64dd17;
+}
+
+.bg-orange{
+color: #ffc107;
+}
+
+
+.bg-img{
+background:url(./6.jpg);
+background-size: cover;
+border-color: 10px solid cyan;
+opacity: 0.5;
+}
+
+.icon{
+color: cyan;
+}
+
+
+
+.img1{
+background:url(./6.jpg);
+width: 200px;
+height: 200px;
+background-size: cover;
+border-color: 10px solid cyan;
+}
+
+.brandimg{
+width: 40px;
+height: 40px;
+border:2px solid orange;
+}
+
+
+
+.line{
+  height: 3px;
+  background: orange;
+  width: 500px;
+  border-radius: 5px;
+}
+
+
+/*form section start*/
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+/*form section end*/
+
+
+/*footer section*/
+.page-footer {
+background-color: #222;
+color: #ccc;
+padding: 60px 0 30px;
+}
+
+.footer-copyright {
+color: #666;
+padding: 40px 0;
+}
+/*footer section end*/
+
