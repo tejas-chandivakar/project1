@@ -27,8 +27,8 @@ text-shadow: 0px 0px 9px cyan;
 
 .facility-head{
 background-color: white;
-width: 27%;
-padding: 5px 10px 5px 10px;
+width: 375px;
+padding: 5px;
 }
 
 /*.bg-facility{
@@ -73,13 +73,16 @@ height: 40px;
 border:2px solid orange;
 }
 
-
+.font-respons{
+ font-size: 10vh; 
+}
 
 .line{
-  height: 3px;
-  background: orange;
-  width: 500px;
+  height: 4px;
+  margin-left: 15px;
+  margin-bottom:5px;
   border-radius: 5px;
+  background-image: -webkit-linear-gradient(left, rgba(236, 221, 11, 0.8), rgba(30, 210, 210, 0.6), rgba(236, 221, 11, 0.8)); 
 }
 
 
@@ -95,6 +98,15 @@ border:2px solid orange;
     color: #36A0FF;
 }
 /*form section end*/
+
+
+/*pagination*/
+.page-text{
+  color:cyan;
+}
+
+
+
 
 
 /*footer section*/
