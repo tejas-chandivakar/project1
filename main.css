@@ -81,7 +81,7 @@ border:2px solid orange;
 
   @media screen and (min-width: 720px) {
     .head-font {
-      font-size: 100px;
+      font-size: 80px;
     }
   }
   @media screen and (max-width: 720px) {
